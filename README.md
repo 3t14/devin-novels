@@ -9,7 +9,10 @@
 
 ## 小説一覧
 *現在の小説コレクション:*
-（小説が追加されるたびに、ここにリンクが追加されます）
+- [デビンさん、システム開発お願いします！](./devin-introduction-story/README.md)
+- [ねこ飼いたい](./having-a-cat/README.md)
+- [地方IT企業変革物語](./work-style-innovation/README.md)
+- [Codex物語](./codex-monogatari/README.md)
 
 ## プロジェクト構造
 - 各小説フォルダーには専用のREADME.mdファイルがあります
